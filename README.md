@@ -1,4 +1,6 @@
 # YOLOScope
+
+# Work in progress, will publish full code within a week
 Important first step!! 
 
 1. Download the YOLOv4 weights and model 
