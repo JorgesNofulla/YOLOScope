@@ -5,7 +5,7 @@ But I plan to add more functionalities to make it more handy for use :)
 
 ## Important first step!! 
 
-1. Download the YOLOv4 weights and model 
+1. Download the YOLOv4 weights and model and put them inside the model folder
 ```
 # The folder where the weights will be saved
 %mkdir model
