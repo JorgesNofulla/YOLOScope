@@ -1,6 +1,8 @@
 # YOLOScope
 
-# Work in progress, will publish full code within a week
+# The code is ready for use 
+But I plan to add more functionalities to make it more handy for use :)
+
 Important first step!! 
 
 1. Download the YOLOv4 weights and model 
@@ -13,3 +15,4 @@ Important first step!!
 !wget https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov4.cfg
 !wget https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names
 ```
+
